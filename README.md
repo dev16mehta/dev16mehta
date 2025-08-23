@@ -7,7 +7,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev16mehta&label=Profile%20views&color=0e75b6&style=flat-square" alt="dev16mehta" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev16mehta&theme=onedark" alt="dev16mehta" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dev16mehta&theme=onedark&row=2&column=4" alt="dev16mehta" />
+  </a>
 </p>
 
 <p align="center">
