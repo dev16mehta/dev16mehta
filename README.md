@@ -85,5 +85,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev16mehta&theme=github-dark" alt="github activity graph" />
+  <img src="https://ghchart.rshah.org/dev16mehta?color=dark" alt="dev16mehta's Github chart" />
 </p>
