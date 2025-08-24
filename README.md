@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1> Hi, I'm Dev Mehta 👋 </h1>
-  <h3>A passionate Full-Stack Engineer from London</h3>
+  <h3>A passionate Full-Stack Engineer from London!</h3>
   <p>I build robust, scalable, and efficient applications.</p>
 </div>
 
